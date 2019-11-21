@@ -1,1 +1,2 @@
-# dumping_final_project
+# Final Project - Illegal Dumping in Baltimore
+
